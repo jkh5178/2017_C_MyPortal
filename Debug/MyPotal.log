@@ -1,0 +1,11 @@
+﻿  student.cpp
+  schedule.cpp
+  MyPotal.cpp
+  Money.cpp
+  코드를 생성하고 있습니다...
+f:\객체2_201401989_전광호_[최종]\mypotal\mypotal.cpp(73): warning C4715: 'check': 모든 제어 경로에서 값을 반환하지는 않습니다.
+f:\객체2_201401989_전광호_[최종]\mypotal\mypotal.cpp(190): warning C4715: 'menumoney': 모든 제어 경로에서 값을 반환하지는 않습니다.
+f:\객체2_201401989_전광호_[최종]\mypotal\mypotal.cpp(108): warning C4715: 'menustuendt': 모든 제어 경로에서 값을 반환하지는 않습니다.
+f:\객체2_201401989_전광호_[최종]\mypotal\mypotal.cpp(147): warning C4715: 'menuschdule': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MyPotal.vcxproj -> F:\객체2_201401989_전광호_[최종]\MyPotal\Debug\MyPotal.exe
+  MyPotal.vcxproj -> F:\객체2_201401989_전광호_[최종]\MyPotal\Debug\MyPotal.pdb (Full PDB)
